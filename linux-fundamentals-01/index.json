@@ -1,0 +1,11 @@
+{
+  "title": "Linux Fundamentals 01 - Hacking Minds",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
