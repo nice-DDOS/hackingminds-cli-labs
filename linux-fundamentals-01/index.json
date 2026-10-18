@@ -3,7 +3,14 @@
   "details": {
     "intro": {
       "text": "intro.md"
-    }
+    },
+    "steps": [
+      {
+        "title": "Create your first directory",
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
+      }
+    ]
   },
   "backend": {
     "imageid": "ubuntu"
